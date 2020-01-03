@@ -1,7 +1,7 @@
 # bam.iobio-docker
 Container for https://github.com/chmille4/bam.iobio.io
 
-### View your bam stats
+### View bam stats
 ```
 docker run -it -p 4027:4027 samesense/bamiobio bash
 
