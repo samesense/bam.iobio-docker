@@ -3,7 +3,7 @@ Container for https://github.com/chmille4/bam.iobio.io
 
 ### View your bam
 ```
-docker run -it -p 4027:4027 quay.research.chop.edu/evansj/bamiobio bash
+docker run -it -p 4027:4027 samesense/bamiobio bash
 
 # now you are in the container
 cd bam.iobio.io/
